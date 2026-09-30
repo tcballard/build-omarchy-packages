@@ -1,0 +1,20 @@
+{
+  "name": "tcballard-omarchy-packages",
+  "interface": {
+    "displayName": "Build Omarchy Packages"
+  },
+  "plugins": [
+    {
+      "name": "build-omarchy-packages",
+      "source": {
+        "source": "local",
+        "path": "./plugins/build-omarchy-packages"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

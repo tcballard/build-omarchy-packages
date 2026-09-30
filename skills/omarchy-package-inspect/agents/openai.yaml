@@ -1,0 +1,4 @@
+interface:
+  display_name: "Omarchy Package Inspect"
+  short_description: "Assess upstream, licensing and package strategy"
+  default_prompt: "Use $omarchy-package-inspect to inspect this application package for Omarchy."

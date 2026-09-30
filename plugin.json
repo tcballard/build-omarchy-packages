@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "build-omarchy-packages",
+  "version": "0.1.0",
+  "description": "Inspect, package, integrate, test, submit and maintain existing applications for the Omarchy package repository.",
+  "author": {
+    "name": "Tom Ballard",
+    "url": "https://github.com/tcballard"
+  },
+  "homepage": "https://github.com/tcballard/build-omarchy-packages",
+  "repository": "https://github.com/tcballard/build-omarchy-packages",
+  "license": "MIT",
+  "keywords": [
+    "omarchy",
+    "arch-linux",
+    "packaging",
+    "agent-skills",
+    "developer-tools"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "build-omarchy-packages",
+  "version": "0.1.0",
+  "description": "Inspect, package, integrate, test, submit and maintain existing applications for the Omarchy package repository.",
+  "author": {
+    "name": "Tom Ballard",
+    "url": "https://github.com/tcballard"
+  },
+  "homepage": "https://github.com/tcballard/build-omarchy-packages",
+  "repository": "https://github.com/tcballard/build-omarchy-packages",
+  "license": "MIT",
+  "keywords": [
+    "omarchy",
+    "arch-linux",
+    "packaging",
+    "agent-skills",
+    "developer-tools"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Build Omarchy Packages",
+    "shortDescription": "Package and maintain upstream apps for Omarchy",
+    "longDescription": "Six skills for upstream inspection, pinned Arch recipes, desktop and data integration, clean builds, evidenced PRs and maintenance.",
+    "developerName": "Tom Ballard",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/tcballard/build-omarchy-packages",
+    "privacyPolicyURL": "https://github.com/tcballard/build-omarchy-packages/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/tcballard/build-omarchy-packages/blob/main/TERMS.md",
+    "defaultPrompt": [
+      "Package this upstream application for Omarchy.",
+      "Validate this package and prepare its contribution PR.",
+      "Update this Omarchy package to the latest upstream release."
+    ]
+  }
+}

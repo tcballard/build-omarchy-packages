@@ -1,0 +1,4 @@
+interface:
+  display_name: "Omarchy Package Submit"
+  short_description: "Submit evidenced Omarchy package contributions"
+  default_prompt: "Use $omarchy-package-submit to submit this application package for Omarchy."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Omarchy Package Integrate"
+  short_description: "Integrate desktop launchers and user-owned data"
+  default_prompt: "Use $omarchy-package-integrate to integrate this application package for Omarchy."

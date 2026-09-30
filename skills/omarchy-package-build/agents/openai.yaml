@@ -1,0 +1,4 @@
+interface:
+  display_name: "Omarchy Package Build"
+  short_description: "Create pinned Arch recipes and release watches"
+  default_prompt: "Use $omarchy-package-build to build this application package for Omarchy."
