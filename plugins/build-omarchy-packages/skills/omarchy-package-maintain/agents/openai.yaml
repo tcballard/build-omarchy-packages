@@ -1,0 +1,4 @@
+interface:
+  display_name: "Omarchy Package Maintain"
+  short_description: "Update recipes and resolve package regressions"
+  default_prompt: "Use $omarchy-package-maintain to maintain this application package for Omarchy."

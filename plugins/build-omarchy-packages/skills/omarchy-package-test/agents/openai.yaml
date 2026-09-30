@@ -1,0 +1,4 @@
+interface:
+  display_name: "Omarchy Package Test"
+  short_description: "Verify builds, desktop behavior and lifecycle"
+  default_prompt: "Use $omarchy-package-test to test this application package for Omarchy."
